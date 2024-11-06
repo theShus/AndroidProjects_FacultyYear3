@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppCompat.StartingSplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#292929</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_baseline_sticky_note_2_24</item>
+        <item name="postSplashScreenTheme">@style/Theme.Projekat1</item>
+    </style>
+</resources>

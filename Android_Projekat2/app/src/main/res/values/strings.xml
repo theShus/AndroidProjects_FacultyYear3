@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">RMAProject2</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dash">-</string>
+    <string name="trazi">Trazi</string>
+    <string name="professor_class">Professor/Class</string>
+    <string name="back">Back</string>
+    <string name="applay_edit">Applay edit</string>
+    <string name="save">save</string>
+
+
+    <string-array name="groups">
+        <item>Group</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>1d1</item>
+        <item>1d2</item>
+        <item>1s1</item>
+        <item>1s2</item>
+        <item>1s3</item>
+        <item>1s4</item>
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+        <item>220</item>
+        <item>221</item>
+        <item>2d1</item>
+        <item>2d2</item>
+        <item>2s1</item>
+        <item>2s2</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>307</item>
+        <item>308</item>
+        <item>309</item>
+        <item>310</item>
+        <item>311</item>
+        <item>321</item>
+        <item>322</item>
+        <item>323</item>
+        <item>324</item>
+        <item>325</item>
+        <item>326</item>
+        <item>327</item>
+        <item>328</item>
+        <item>329</item>
+        <item>3d1</item>
+        <item>3d2</item>
+        <item>3d3</item>
+        <item>3s1</item>
+        <item>3s2</item>
+        <item>401</item>
+        <item>402</item>
+        <item>403</item>
+        <item>404</item>
+        <item>420</item>
+        <item>4d1</item>
+        <item>4d2</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>Day</item>
+        <item>PON</item>
+        <item>UTO</item>
+        <item>SRE</item>
+        <item>ČET</item>
+        <item>PET</item>
+    </string-array>
+
+</resources>

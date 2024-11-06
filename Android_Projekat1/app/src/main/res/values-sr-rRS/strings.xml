@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">email</string>
+    <string name="password">Lozinka</string>
+    <string name="login">Uloguj se</string>
+    <string name="username">usename</string>
+    <string name="jira_system_for_raf_students">Jira sistem za Raf studente</string>
+    <string name="log_out">Izloguj se</string>
+    <string name="enhancment">Unapredjenje</string>
+    <string name="bugs">Greska</string>
+    <string name="in_progress">Traje</string>
+    <string name="raf_jira_statistics">Raf Jira statistika</string>
+    <string name="statistics">Statistika</string>
+    <string name="new_text">Novo</string>
+    <string name="tickets">Tiketi</string>
+    <string name="profile">Profil</string>
+    <string name="ticket_title">Naslov tiketa</string>
+    <string name="ticket_description">Opis tiketa</string>
+    <string name="add_new_ticket">Dodaj novi tiket</string>
+    <string name="search">Pretrazi</string>
+    <string name="edit_ticket">Izmeni tiket</string>
+    <string name="ticket_type">Tip tiketa</string>
+    <string name="priority">Prioritet</string>
+    <string name="estimation">Predvidjeno</string>
+    <string name="logged_time">Zapisano vreme</string>
+    <string name="ticket_desc">Opis tiketa</string>
+    <string name="edit">Izmena</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/drawable/ic_baseline_bug_report_24.xml" value="0.3305" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3305" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/drawable/ic_baseline_sticky_note_2_24.xml" value="0.3305" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/drawable/ic_engance.xml" value="0.3305" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3305" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/activity_login.xml" value="0.36277173913043476" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/activity_single_fragment_display.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_bottom_navigation.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_done.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_dont.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_edit_ticket.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_editticket.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_first.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_in_progress.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_inprogress.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_new.xml" value="0.36277173913043476" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_newTicket.xml" value="0.36277173913043476" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_new_ticket.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_newticket.xml" value="0.36277173913043476" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_placeholder.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_statistics.xml" value="0.33" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_tabs.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_ticket.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_ticket_details.xml" value="0.33" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/fragment_todo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/layout/ticket_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/Shus/Programing/AndroidApps/Projekat1/app/src/main/res/menu/bottom_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/lukaj/Programming/Android/Android_Projekat1/app/src/main/res/layout/activity_single_fragment_display.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lukaj/Programming/Android/Android_Projekat1/app/src/main/res/layout/fragment_bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/lukaj/Programming/Android/Android_Projekat1/app/src/main/res/menu/bottom_navigation.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

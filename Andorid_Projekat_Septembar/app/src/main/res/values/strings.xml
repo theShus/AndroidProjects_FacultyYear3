@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Projekat_septembar</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_out">Log out</string>
+    <string name="users_overview">Users overview</string>
+    <string name="user_creation">User creation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_header_desc">nav_header_desc</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="submit">Submit</string>
+    <string name="age">Age</string>
+    <string name="salary">Salary</string>
+    <string name="name">Name</string>
+    <string name="raf_user_management">RAF User management</string>
+    <string name="sign_up">sign up</string>
+    <string name="create_profile">Create profile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="newest">Newest</string>
+    <string name="search">Search</string>
+    <string name="saved">Saved</string>
+    <string name="available">Available:</string>
+    <string name="save">Save</string>
+    <string name="contact_seller">Contact seller</string>
+    <string name="send">Send</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="search_by_model">Search by model</string>
+    <string name="search_by_color">Search by color</string>
+    <string name="search_by_year">Search by year</string>
+    <string name="year">Year</string>
+    <string name="lastname">Lastname</string>
+    <string name="phone_number">Phone_number</string>
+    <string name="country">Country</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_1"
+        android:icon="@drawable/ic_statistics"
+        android:title="@string/statistics" />
+
+    <item
+        android:id="@+id/navigation_2"
+        android:icon="@drawable/ic_new_ticket"
+        android:title="@string/new_text" />
+
+    <item
+        android:id="@+id/navigation_3"
+        android:icon="@drawable/ic_ticket_list"
+        android:title="@string/tickets" />
+    <item
+        android:id="@+id/navigation_4"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/profile" />
+
+</menu>
